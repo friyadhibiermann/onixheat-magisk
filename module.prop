@@ -1,0 +1,6 @@
+id=onixheat-dnscrypt-proxy
+name=Onixheat
+version=v1.0.1
+versionCode=1
+author=oniversal
+description=bypass dns android, dan forward host, beserta rules ip yang tidak terbatas bersama onixheat nixheat-dnscrypt-proxy
